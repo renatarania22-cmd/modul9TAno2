@@ -1,0 +1,11 @@
+{
+    "name": "Fasilitas",
+    "alias": "fasilitas",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Fasilitas\\Providers\\FasilitasServiceProvider"
+    ],
+    "files": []
+}
